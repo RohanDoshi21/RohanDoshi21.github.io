@@ -72,7 +72,7 @@ linkedin_username: rohan-doshi21
 telegram_username: # your Telegram user name
 scholar_userid: upjWDDoAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: +91 9325712554 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: 919325712554 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: rohan.doshi02 # your Medium username
 quora_username: # your Quora username
@@ -255,7 +255,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: rohan.bib
+  bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
