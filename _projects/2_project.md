@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Distributed MQTT Broker
-description: A distributed MQTT broker that can be used to scale up the MQTT broker to handle a large number of clients, written in Go
+description: A distributed MQTT broker that can be used to scale up the MQTT broker to handle a large number of clients, ensuring fault tolerance.
 img: assets/img/mqtt.png
 importance: 3
 category: current
