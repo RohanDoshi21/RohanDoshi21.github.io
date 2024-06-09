@@ -7,10 +7,10 @@ nav: true
 ---
 
 
-- [Download Resume ](/assets/pdf/RohanDoshiResume.pdf)
+<!-- - [Download Resume ](/assets/pdf/RohanDoshiResume.pdf) -->
 
 
-<br>
+<!-- <br> -->
 
 <!-- {% include embedpdf.html source="https://drive.google.com/file/d/1adiSFK4NkFyDmMPDF3REhVIkQP5Wt_Gy/preview" width=100 height=800 %} -->
 
