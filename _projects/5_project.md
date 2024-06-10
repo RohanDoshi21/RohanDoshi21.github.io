@@ -3,7 +3,7 @@ layout: page
 title: Engg Chem Assist
 description: An app that will help study engineering chemistry. Convers the entire portion of SPPU 1st Year Engg Chemistry.
 img: assets/img/chem.jpg
-importance: 3
+importance: 4
 category: Others
 ---
 
