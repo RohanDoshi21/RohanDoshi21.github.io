@@ -8,7 +8,7 @@ nav: true
 
 - [Download Resume](/assets/pdf/RohanDoshiResume.pdf)
 
-<embed src="/assets/pdf/RohanDoshiResume.pdf" width="600" height="500" type="application/pdf">
+<embed src="/assets/pdf/RohanDoshiResume.pdf" width="100%" height="800" type="application/pdf">
 
 <!-- <br> -->
 
