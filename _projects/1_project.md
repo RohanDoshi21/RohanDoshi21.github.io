@@ -4,12 +4,14 @@ title: A GRPC + MQTT Chat Server
 description: This project implements a group chat application with features like invite-based group creation, real-time messaging, and notifications.
 img: assets/img/grpc.png
 importance: 3
-category: previous
+category: Featured
 ---
 
 ## MurMur: A GRPC + MQTT Chat Server
 
 This project implements a group chat application with features like invite-based group creation, real-time messaging, and notifications.
+
+## [GitHub Repository](https://github.com/RohanDoshi21/MurMur_GRPC-Chat)
 
 ### Technologies Used
 
@@ -25,17 +27,6 @@ This project implements a group chat application with features like invite-based
 * Group creation with an invite system
 * Real-time messaging for group and individual chats
 * Notification system using MQTT
-
-### Getting Started
-Starting casdoor & postgres docker container
-```bash
-docker compose up -d
-```
-
-Run Server
-```bash
-go run main.go
-```
 
 ### Using the Application:
 * Users will need to authenticate using a valid Casdoor account.
