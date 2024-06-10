@@ -32,7 +32,7 @@ Pulzion is an annual technical fest organized by the PICT ACM Student Chapter. T
 
 The Pulzion '23 app is available for download on the Google Play Store.
 
-[Download from Google Play Store](https://play.google.com/store/apps/details?id=com.pasc.pulzion23&pli=1)
+[Download from Google Play Store](https://play.google.com/store/apps/details?id=in.co.pulzion23)
 
 ## Screenshots
 
