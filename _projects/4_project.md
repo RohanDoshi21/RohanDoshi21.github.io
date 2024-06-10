@@ -3,7 +3,7 @@ layout: page
 title: Pulzion 23
 description: Pulzion consists of multiple events in technical as well as non-technical domains including coding competitions, mock placement interviews, business management-based events, design, and development-based contests, and quizzing events. It is one of the most anticipated events taking place at PICT.
 img: assets/img/pulzion.png
-importance: 5
+importance: 1
 category: Others
 ---
 
