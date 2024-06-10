@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pitch N Fund
-description: Pitch N Fund is a dynamic platform designed to bridge the gap between entrepreneurs seeking seed funding and angel investors. This platform not only facilitates the connection but also intelligently categorizes startups and their products using machine learning.
+description: Pitch N Fund is a dynamic platform designed to bridge the gap between entrepreneurs seeking seed funding and angel investors. This platform not only facilitates the connection but also intelligently categorizes startups and their products using machine learning. 🚀 Focus on investing and funding!!
 img: assets/img/pitch.png
 importance: 3
 category: Others

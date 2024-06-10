@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cloud Accounting
-description: This is an application for a CA to interact with its clients. Clients can book appointments, share their documents and conversate with them through chat using this android application.
+description: This is an application for a CA to interact with its clients. Clients can book appointments, share their documents and conversate with them and chat using this web-app. CA can manage appointments and view their documents.
 img: assets/img/cloud2.png
 importance: 2
 category: Others
