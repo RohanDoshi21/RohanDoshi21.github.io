@@ -11,8 +11,6 @@ category: Others
 
 **Connecting Entrepreneurs to Angel Investors for Seed Funding**
 
-![Pitch N Fund Logo](link-to-logo.png)
-
 [Live Deployment](https://pitch-n-fund-website.vercel.app/)
 
 ## Introduction
